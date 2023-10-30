@@ -26,12 +26,12 @@ The constraints determine the DoF of a joint:
 ## 5. **Types of Joints**
 Building on our previous table, here are the basic mechanical joint types:
 
-- **Revolute (R)**: Rotation about one axis (like a door hinge).
-- **Prismatic (P)**: Linear motion along an axis (like a sliding drawer).
-- **Cylindrical (C)**: Combination of linear and rotational movement along one axis.
-- **Spherical (S)**: Allows rotation in all three axes (like a human shoulder).
-- **Planar (PL)**: Allows motion in a plane with two translational DoFs and one rotational.
-- **Helical (H)**: Screw-like motion, rotation and translation about a single axis.
+- **[Revolute (R)](https://en.wikipedia.org/wiki/Revolute_joint)**: Rotation about one axis (like a door hinge).
+- **[Prismatic (P)](https://en.wikipedia.org/wiki/Prismatic_joint)**: Linear motion along an axis (like a sliding drawer).
+- **[Cylindrical (C)](https://en.wikipedia.org/wiki/Cylindrical_joint)**: Combination of linear and rotational movement along one axis.
+- **[Spherical (S)](Ball_joint)**: Allows rotation in all three axes (like a human shoulder).
+- **[Planar (PL)]()**: Allows motion in a plane with two translational DoFs and one rotational.
+- **[Helical (H)](https://en.wikipedia.org/wiki/Screw_joint)**: Screw-like motion, rotation and translation about a single axis.
 
 
 
